@@ -1,0 +1,21 @@
+```{=html}
+
+<div class="list grid" style="column-gap: 10px;">
+
+<% for (const tile of items) { %>
+  <div class="card border-2 rounded-3 g-col-12 g-col-sm-6 g-col-md-4 mb-2" <%= metadataAttrs(tile) %>>
+    <a href="<%- tile.path %>">
+      <img src="<%- tile.image %>" alt="<%- tile.title %>" class="card-img-top"/>
+    </a>
+    <div class="card-footer py-1 px-2 border-bottom border-1 bg-light">
+      <medium class="card-text inline-block">
+        <a href="<%- tile.path %>" class="listing-title"><%= tile.title %></a><br>
+        <span class="text-muted listing-subtitle"><%= tile.subtitle %></span>
+      </medium>
+    </div>
+  </div>
+<% } %>
+
+</div>
+
+```

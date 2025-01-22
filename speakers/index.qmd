@@ -1,0 +1,14 @@
+---
+title: "Speakers"
+listing:
+  - id: speakers_2025
+    contents: "2025/**/index.qmd"
+    template: ../html/speakers/listing.ejs
+    categories: true
+page-layout: full
+code-tools: false
+comments: false
+---
+
+::: {#speakers_2025}
+:::

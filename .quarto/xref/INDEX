@@ -1,0 +1,23 @@
+{
+  "speakers/index.qmd": {
+    "index.html": "ca392094"
+  },
+  "about.qmd": {
+    "about.html": "cc6c96a4"
+  },
+  "schedule/index.qmd": {
+    "index.html": "75696213"
+  },
+  "speakers/2025/ossola/index.qmd": {
+    "index.html": "c46198f0"
+  },
+  "index.qmd": {
+    "index.html": "1d75d527"
+  },
+  "experience/index.qmd": {
+    "index.html": "8b394e7b"
+  },
+  "venue/index.qmd": {
+    "index.html": "dbd57a7b"
+  }
+}

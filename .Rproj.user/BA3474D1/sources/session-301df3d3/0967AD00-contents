@@ -1,0 +1,57 @@
+/*-- scss:defaults --*/
+
+// Import fonts
+@import url('https://fonts.googleapis.com/css2?family=Bodoni+Moda:ital,opsz,wght@0,6..96,400..900;1,6..96,400..900&family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+
+// Colors
+$oval-green: #006144;
+$lovers-lane: #82C503;
+$energy-green: #CFFC00;
+$flower-trial-red: #E56A54;
+$powered-purple: #7E5475;
+$horsetooth-blue: #008FB3;
+$stalwart-slate: #105456;
+$sunshine: #FFC038;
+
+// Fonts
+$bodoni: "Bodoni Moda", serif;
+
+/*-- scss:rules --*/
+
+.energy-heading {
+  font-family: $bodoni;
+  font-weight: 500;
+}
+
+#event-overview {
+  padding-bottom: 2%;
+}
+
+.navbar-logo {
+  min-height: 70px;
+  width: auto;
+}
+
+.menu-text {
+  font-size: 1.15em;
+  font-weight: 500;
+}
+
+.nav-footer {
+  padding-bottom: 3%;
+}
+
+.nav-footer .nav-footer-left {
+  font-size: 0;
+  max-width: 0%;
+}
+
+.nav-footer .nav-footer-right {
+  font-size: 0;
+  max-width: 0%
+}
+
+.quarto-layout-row {
+  padding-top: 30px;
+  padding-bottom: 30px;
+}

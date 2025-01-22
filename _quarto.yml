@@ -1,0 +1,44 @@
+project:
+  type: website
+  resources: 
+    - "/images"
+
+website:
+  title: "Trees in the West"
+  search: 
+    location: navbar
+    type: textbox
+  site-url: https://www.treesinthewest.com
+  repo-url: https://github.com/danielburcham/treesinthewest-quarto-site
+  navbar:
+    logo: images/conferenceLogo.png
+    logo-alt: "Trees in the West conference logo"
+    collapse: true
+    title: false
+    left:
+      - href: schedule\index.qmd
+        text: Schedule
+      - href: speakers\index.qmd
+        text: Speakers
+      - href: venue\index.qmd
+        text: Venue
+    right:
+      - href: register.qmd
+        text: Register
+  page-footer: 
+    left: ""
+    center: |
+      **Organizing Partners**  
+        
+      [![](/images/csuLogo.png){height=70px}](https://www.colostate.edu){target=blank} [![](/images/csuSpurLogo.png){height=70px}](https://www.csuspur.org){target=blank} [![](/images/csfsLogo.png){height=70px}](https://csfs.colostate.edu){target=blank}
+    right: ""
+
+format:
+  html:
+    embed-resources: true
+    theme: 
+      - cosmo
+      - styles.scss
+    mainfont: Poppins
+    toc: false
+css: styles.css
