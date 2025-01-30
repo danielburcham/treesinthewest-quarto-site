@@ -12,7 +12,14 @@ format: html
 [*2.*]{style="font-family: Bodoni Moda; font-size: 1.7em; font-weight: 700; color: #008FB3;"}
 [8:45]{style="font-size: 1.4em; font-weight: 600; float: right;"}
 
-### Climate change summary
+### Global Climate Change and Our Community Forests
+
+Scott Denning, Colorado State University
+
+::: {.callout-note collapse="true" appearance="minimal"}
+### Session Details
+
+:::
 
 ***
 [*3.*]{style="font-family: Bodoni Moda; font-size: 1.7em; font-weight: 700; color: #008FB3;"}
@@ -58,6 +65,13 @@ predictions into green realities.
 
 ### Tree Canopy, Heat, and Household Water Use
 
+Melissa McHale, University of British Columbia
+
+::: {.callout-note collapse="true" appearance="minimal"}
+### Session Details
+
+:::
+
 ***
 [*6.*]{style="font-family: Bodoni Moda; font-size: 1.7em; font-weight: 700; color: #008FB3;"}
 [12:05]{style="font-size: 1.4em; font-weight: 600; float: right;"}
@@ -70,6 +84,11 @@ predictions into green realities.
 
 ### Research Grove Tour
 
+::: {.callout-note collapse="true" appearance="minimal"}
+### Session Details
+
+:::
+
 ***
 [*8.*]{style="font-family: Bodoni Moda; font-size: 1.7em; font-weight: 700; color: #008FB3;"}
 [2:10]{style="font-size: 1.4em; font-weight: 600; float: right;"}
@@ -80,7 +99,12 @@ predictions into green realities.
 [*9.*]{style="font-family: Bodoni Moda; font-size: 1.7em; font-weight: 700; color: #008FB3;"}
 [2:30]{style="font-size: 1.4em; font-weight: 600; float: right;"}
 
-### Dialgoue
+### Dialgoue with Community Members
+
+::: {.callout-note collapse="true" appearance="minimal"}
+### Session Details
+
+:::
 
 ***
 [*10.*]{style="font-family: Bodoni Moda; font-size: 1.7em; font-weight: 700; color: #008FB3;"}

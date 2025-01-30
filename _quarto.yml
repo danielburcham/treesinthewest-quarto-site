@@ -1,5 +1,9 @@
 project:
   type: website
+  output-dir: _site
+  render: 
+    - "*.qmd"
+    - "*.md"  
   resources: 
     - "/images"
 
@@ -10,6 +14,7 @@ website:
     type: textbox
   site-url: https://www.treesinthewest.com
   repo-url: https://github.com/danielburcham/treesinthewest-quarto-site
+  google-analytics: "G-4K0CFEWX4K"
   navbar:
     logo: images/conferenceLogo.png
     logo-alt: "Trees in the West conference logo"

@@ -2,7 +2,7 @@
 title: "Venue"
 format: html
 ---
-
+Cool!
 The event will take place in the Confluence Theater located in the Hydro building at CSU Spur. Located on the ground floor, the Theater can accommodate over 250 people with access to outdoor areas, including the Research Grove. During the event, registrants can enjoy beverages, snacks, and a catered lunch. 
 
 [Download a map of conference locations](CSU-Spur-Hydro-map.pdf){target=blank}
