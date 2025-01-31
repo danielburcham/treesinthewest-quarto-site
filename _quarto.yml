@@ -6,6 +6,7 @@ project:
     - "*.md"  
   resources: 
     - "/images"
+    - "/venue/CSU-Spur-Hydro-map.pdf"
 
 website:
   title: "Trees in the West"
