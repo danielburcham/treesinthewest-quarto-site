@@ -57,7 +57,7 @@ var directions = new MapboxDirections({
 map.addControl(directions,'top-left');
 
 map.on('load',  function() {
-    directions.setDestination("4777 North National Western Drive, Denver, CO 80216");
+    directions.setDestination("4777 National Western Drive, Denver, CO 80216");
 });
 
 </script>
