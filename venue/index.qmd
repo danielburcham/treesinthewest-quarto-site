@@ -3,7 +3,7 @@ title: "Venue"
 format: html
 ---
 
-The event will take place in the Confluence Theater in the Hydro building at CSU Spur. Located on the ground floor, the Theater can accommodate over 250 people with access to outdoor seating areas. While visiting, you can also explore some of the other buildings, facilities, and projects at CSU Spur, including the green roof, rooftop greenhouse, and research tree grove. The upper levels of many buildings offer spectacular views of Denver and the surrounding mountains.
+The event will take place in the Confluence Theater in the Hydro building at CSU Spur. Located on the ground floor, the Theater can accommodate over 250 people with access to outdoor seating areas. While visiting, you can also explore some of the other buildings, facilities, and projects at CSU Spur, including the green roof, greenhouse, and research tree grove. The upper levels of many buildings offer spectacular views of Denver and the surrounding mountains.
 
 During the event, registrants can enjoy beverages, snacks, and a catered lunch. Alongside presentations, panel discussions, and interactive tours, the schedule affords lots of time for you to connect with friends and colleagues. 
 
@@ -11,9 +11,9 @@ During the event, registrants can enjoy beverages, snacks, and a catered lunch. 
 
 ### Directions
 
-**Address**
-CSU Spur
-4777 National Western Drive
+**Address**  
+CSU Spur  
+4777 National Western Drive  
 Denver, CO 80216
 
 ::: {.column-body-outset style="padding-top: 3%; padding-bottom: 3%;"}
@@ -57,7 +57,7 @@ var directions = new MapboxDirections({
 map.addControl(directions,'top-left');
 
 map.on('load',  function() {
-    directions.setDestination("4777 National Western Drive, Denver, CO 80216");
+    directions.setDestination('4777 North National Western Drive, Denver, CO 80216');
 });
 
 </script>
