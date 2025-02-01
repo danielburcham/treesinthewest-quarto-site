@@ -29,7 +29,7 @@ website:
       - href: venue\index.qmd
         text: Venue
     right:
-      - href: register.qmd
+      - href: https://www.eventbrite.com/e/trees-in-the-west-tickets-1231591024909
         text: Register
   page-footer: 
     left: ""
