@@ -52,6 +52,5 @@ change adaptation. It has always been challenging to manage urban forests threat
 Certified Arborists, Municipal Specialists, and Board Certified Master Arborists will be eligible for CEUs (details coming soon). 
 
 ### Sponsors
-::: {layout-ncol="3" layout-nrow="1"}
-![](images/usfs.png)
-:::
+
+![](images/usfs.png){width=20%}
