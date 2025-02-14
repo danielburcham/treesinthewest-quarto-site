@@ -8,7 +8,8 @@ format: html
 
 ### Welcoming Remarks
 
-***
+------------------------------------------------------------------------
+
 [*2.*]{style="font-family: Bodoni Moda; font-size: 1.7em; font-weight: 700; color: #008FB3;"}
 [8:45]{style="font-size: 1.4em; font-weight: 600; float: right;"}
 
@@ -18,22 +19,24 @@ Scott Denning, Colorado State University
 
 ::: {.callout-note collapse="true" appearance="minimal"}
 ### Session Details
-
 :::
 
-***
+------------------------------------------------------------------------
+
 [*3.*]{style="font-family: Bodoni Moda; font-size: 1.7em; font-weight: 700; color: #008FB3;"}
 [9:45]{style="font-size: 1.4em; font-weight: 600; float: right;"}
 
 ### Morning Break
 
-***
+------------------------------------------------------------------------
+
 [*4.*]{style="font-family: Bodoni Moda; font-size: 1.7em; font-weight: 700; color: #008FB3;"}
 [10:05]{style="font-size: 1.4em; font-weight: 600; float: right;"}
 
 ### Predicting the Future in Urban Forestry
 
-[Alessandro Ossola](/speakers/2025/ossola), University of California Davis
+[Alessandro Ossola](/speakers/2025/ossola), University of California
+Davis
 
 ::: {.callout-note collapse="true" appearance="minimal"}
 ### Session Details
@@ -59,26 +62,69 @@ our people and our trees. This talk hopes to inspire transforming tree
 predictions into green realities.
 :::
 
-***
+------------------------------------------------------------------------
+
 [*5.*]{style="font-family: Bodoni Moda; font-size: 1.7em; font-weight: 700; color: #008FB3;"}
 [11:05]{style="font-size: 1.4em; font-weight: 600; float: right;"}
 
-### Tree Canopy, Heat, and Household Water Use
+### 
 
-Melissa McHale, University of British Columbia
+[Melissa McHale](/speakers/2025/mchale), University of British Columbia
 
 ::: {.callout-note collapse="true" appearance="minimal"}
 ### Session Details
 
+Urban forestry practitioners and managers face mounting challenges in
+sustaining tree canopy amid rising temperatures, constrained water
+resources, and limited municipal budgets. While broad canopy targets are
+often emphasized, these metrics oversimplify the complexity of urban
+ecosystems and miss critical nuances that can inform better planning and
+policy decisions. This presentation highlights recent findings that
+bridge science, practice, and policy, revealing new insights into the
+dual role of tree canopy in reducing household water use and improving
+thermal comfort.
+
+Recent research from Dr. McHale’s lab highlights the importance of
+studying urban heat at scales that align with human experiences,
+addressing the limitations of low-resolution, satellite-derived, thermal
+imagery. The team has shown a clear, linear relationship between canopy
+cover and mean radiant temperature, with increasing canopy—even beyond
+the “magical” 30 percent metric—consistently enhancing outdoor thermal
+comfort. At the parcel scale, their findings reveal critical design
+factors influencing heat and water use. Smaller residential parcels, for
+example, consume more water due to neighborhood norms, homeowners'
+associations, and design choices. Furthermore, xeriscaping and
+traditional lawns exhibit distinct tradeoffs between heat mitigation and
+water savings, particularly during hot, dry summers, while the
+orientation of landscapes challenges the conventional "west is best"
+belief perpetuated by i-Tree models. The team’s work also underscores
+the multifunctional value of trees in transportation corridors,
+demonstrating how they contribute to thermal comfort in ways that go
+beyond providing shade. Collectively, these insights emphasize the need
+for tailored, actionable strategies that reflect the lived experiences
+of urban residents and the specific dynamics of their environments.
+
+Equally important is the role of partnerships between cities,
+universities, and industry in addressing these challenges. Drawing from
+collaborations in Canada’s Okanagan region, this presentation showcases
+how such partnerships enable cutting-edge science to inform urban
+forestry practices and policy. These collaborations not only advance the
+practical application of new tools but also empower cities to implement
+cost-effective solutions during times of reduced budgets. By
+co-producing knowledge, fostering trust, and leveraging shared goals,
+academia, practitioners, and policymakers can amplify the impacts of
+nature-based solutions to address shared climate adaptation challenges.
 :::
 
-***
+------------------------------------------------------------------------
+
 [*6.*]{style="font-family: Bodoni Moda; font-size: 1.7em; font-weight: 700; color: #008FB3;"}
 [12:05]{style="font-size: 1.4em; font-weight: 600; float: right;"}
 
 ### Lunch
 
-***
+------------------------------------------------------------------------
+
 [*7.*]{style="font-family: Bodoni Moda; font-size: 1.7em; font-weight: 700; color: #008FB3;"}
 [12:55]{style="font-size: 1.4em; font-weight: 600; float: right;"}
 
@@ -86,16 +132,17 @@ Melissa McHale, University of British Columbia
 
 ::: {.callout-note collapse="true" appearance="minimal"}
 ### Session Details
-
 :::
 
-***
+------------------------------------------------------------------------
+
 [*8.*]{style="font-family: Bodoni Moda; font-size: 1.7em; font-weight: 700; color: #008FB3;"}
 [2:10]{style="font-size: 1.4em; font-weight: 600; float: right;"}
 
 ### Afternoon Break
 
-***
+------------------------------------------------------------------------
+
 [*9.*]{style="font-family: Bodoni Moda; font-size: 1.7em; font-weight: 700; color: #008FB3;"}
 [2:30]{style="font-size: 1.4em; font-weight: 600; float: right;"}
 
@@ -103,12 +150,11 @@ Melissa McHale, University of British Columbia
 
 ::: {.callout-note collapse="true" appearance="minimal"}
 ### Session Details
-
 :::
 
-***
+------------------------------------------------------------------------
+
 [*10.*]{style="font-family: Bodoni Moda; font-size: 1.7em; font-weight: 700; color: #008FB3;"}
 [3:45]{style="font-size: 1.4em; font-weight: 600; float: right;"}
 
 ### Closing Remarks
-

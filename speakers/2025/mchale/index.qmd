@@ -1,0 +1,42 @@
+---
+title: "Melissa McHale"
+subtitle: "Associate Professor, University of British Columbia"
+image: image001.jpg
+format: html
+---
+
+::: {style="float: left; margin-right: 25px; margin-bottom: 25px"}
+![](image001.jpg){fig-alt="Portrait of Dr. Melissa McHale" width="200"}
+:::
+
+Dr. Melissa McHale is an Associate Professor of Urban Ecology and
+Sustainability in the Department of Forest Resources Management at the
+University of British Columbia. She leads an internationally recognized
+research program that bridges urban theory with applied science to
+inform decision-making in cities. With a background in exploring the
+social and biophysical drivers of urban ecosystem structure and
+function, global urbanization processes, green infrastructure, and
+ecosystem service tradeoffs, Dr. McHale brings a systems-based approach
+to urban forestry research, emphasizing the connections between
+landscape patterns, human health, and well-being. Her current work
+focuses on nature-based solutions (NBS) for mitigating urban heat,
+assessing the role of tree canopy in semi-arid environments, and
+understanding the complex interactions between urban forests, water use,
+and thermal comfort. Dr. McHale’s research has revealed critical
+insights into the human-relevant thermal benefits of urban forests and
+the nuanced role of canopy cover in residential landscapes and
+transportation corridors.
+
+Dr. McHale is also deeply committed to fostering partnerships between
+cities, universities, and industry. Through recent collaborations in
+Canada’s Okanagan region, she has demonstrated how these partnerships
+not only address cutting-edge research questions but also enable the
+practical application of innovative tools. These efforts help cities
+advance their practices at reduced costs, showcasing how co-produced
+knowledge can drive meaningful change during times of financial
+constraint. Dr. McHale has served as a science advisor to several
+organizations, including the Science and Research Committee for Denver’s
+Sustainability Advisory Council and the United States Forest Service’s
+Denver Urban Field Station, and her work continues to empower
+communities across North America to confront shared sustainability
+challenges.
