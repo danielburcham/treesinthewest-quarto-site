@@ -10,6 +10,7 @@ project:
 
 website:
   title: "Trees in the West"
+  favicon: images/favicon.png
   search: 
     location: navbar
     type: textbox
