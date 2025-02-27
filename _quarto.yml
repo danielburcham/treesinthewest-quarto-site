@@ -5,7 +5,7 @@ project:
     - "*.qmd"
     - "*.md"  
   resources: 
-    - "/images"
+    - "/images/"
     - "/venue/CSU-Spur-Hydro-map.pdf"
 
 website:

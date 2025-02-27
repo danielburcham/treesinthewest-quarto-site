@@ -1,0 +1,14 @@
+---
+title: "Scott Denning"
+subtitle: "Emeritus Professor, Colorado State University"
+image: Ossola2023.jpg
+---
+
+::: {style="float: left; margin-right: 25px; margin-bottom: 25px"}
+![](scott.jpeg){fig-alt="Portrait of Dr. Scott Denning"
+width="200"}
+:::
+
+Professor Scott Denning received his B.A. in Geological Sciences from the University of Maine in 1984, and his M.S. and Ph.D. degrees in Atmospheric Science from Colorado State University in 1993 and 1994. He studied radiometric geochronology, surface water geochemistry, and mountain hydrology before becoming interested in global climate and biogeochemical dynamics. After a two-year postdoctoral appointment modeling global sources and sinks of atmospheric CO2, he spent two years as an Assistant Professor in the Donald Bren School of Environmental Science and Management at the University of California at Santa Barbara. He joined the Atmospheric Science faculty at Colorado State University in 1998, and has served as Director of Education for CMMAP since 2006. He does a lot of outreach about climate change and takes special delight in engaging skeptical audiences.
+
+Professor Denning’s research interests include interactions between the atmosphere and terrestrial biosphere and their effects on exchange of energy, water, and carbon dioxide. His research group studies these interactions through numerical simulation modeling at local, regional, and global scales. The group also collaborates with other scientists conducting observation campaigns and longer-term field work in Wisconsin, Oklahoma, and Brazil. Variations of atmospheric trace gases are studied using inverse models to understand surface sources and sinks, especially in relation to the “missing sink” of carbon dioxide. Forward, process-based models are used to study both carbon and land-surface climate. The group compares the results with observations. Professor Denning’s research group also focuses on spatial scaling of land-surface processes from the scales of leaves to continents from pixels in global imagery.

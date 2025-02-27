@@ -5,7 +5,7 @@ image: Ossola2023.jpg
 ---
 
 ::: {style="float: left; margin-right: 25px; margin-bottom: 25px"}
-![](Ossola2023.jpg){fig-alt="Portrait of Dr. Alessandro Ossola"
+![](Ossola2023.jpeg){fig-alt="Portrait of Dr. Alessandro Ossola"
 width="200"}
 :::
 
