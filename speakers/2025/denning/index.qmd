@@ -1,7 +1,7 @@
 ---
 title: "Scott Denning"
 subtitle: "Emeritus Professor, Colorado State University"
-image: Ossola2023.jpg
+image: scott.jpeg
 ---
 
 ::: {style="float: left; margin-right: 25px; margin-bottom: 25px"}
