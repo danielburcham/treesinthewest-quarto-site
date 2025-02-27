@@ -15,7 +15,7 @@ format: html
 
 ### Global Climate Change and Our Community Forests
 
-Scott Denning, Colorado State University
+[Scott Denning](/speakers/2025/denning), Colorado State University
 
 ::: {.callout-note collapse="true" appearance="minimal"}
 ### Session Details

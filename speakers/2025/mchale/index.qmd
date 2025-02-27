@@ -6,7 +6,7 @@ format: html
 ---
 
 ::: {style="float: left; margin-right: 25px; margin-bottom: 25px"}
-![](mchale.jpeg){fig-alt="Portrait of Dr. Melissa McHale"}
+![](mchale.jpeg){fig-alt="Portrait of Dr. Melissa McHale" width="200"}
 :::
 
 Dr. Melissa McHale is an Associate Professor of Urban Ecology and
