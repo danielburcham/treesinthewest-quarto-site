@@ -1,12 +1,13 @@
 ---
 format: html
 ---
+
 ::: {layout-ncol="3" layout-nrow="1"}
-![](images/DSCF5094.jpg)
+![](images/DSCF5094.jpeg)
 
-![](images/DSCF6269.jpg)
+![](images/DSCF6269.jpeg)
 
-![](images/DSCF6371.jpg)
+![](images/DSCF6371.jpeg)
 :::
 
 ## [*A panoramic gathering for urban and community forestry*]{.energy-heading}
@@ -17,20 +18,21 @@ diverse perspectives. Connect with your colleagues, learn from experts,
 and share your insights!
 
 ::: {style="text-align: right; font-size: 1.2em"}
-[***Save the date***]{style="color: #CFFC00; background-color: #105456; font-weight: 500;"}  
-**Tuesday, May 20, 2025**  
-**8:30 a.m. - 4 p.m.**  
+[***Save the
+date***]{style="color: #CFFC00; background-color: #105456; font-weight: 500;"}\
+**Tuesday, May 20, 2025**\
+**8:30 a.m. - 4 p.m.**\
 **CSU Spur, Denver**
 :::
 
 ### Event Overview
 
 Throughout history, trees have been used to make life more comfortable
-for people living in towns and cities, and we are still discovering
-all the ways trees improve people's lives today.
+for people living in towns and cities, and we are still discovering all
+the ways trees improve people's lives today.
 
-In the Western US, trees and forests do not naturally thrive in most areas, 
-and the canopy shading most communities instead shows people's
+In the Western US, trees and forests do not naturally thrive in most
+areas, and the canopy shading most communities instead shows people's
 deep and longstanding affinity for trees. But communities in the West
 also face unique challenges for growing trees, including limited water
 and volatile weather, and many are concerned about the future of urban
@@ -46,13 +48,21 @@ in a region with exceptional natural and cultural heritages.
 
 Each year, we will explore a prominent theme in urban forestry. This
 year's sessions will explore the role of urban forestry in climate
-change adaptation. It has always been challenging to manage urban forests threatened by natural and human disturbances. As the climate warms, it is unclear if our trees will continue thriving and supporting people in communities. At this year's event, we will explore the essentials of climate change, potential threats to urban forests, and possible ways to enhance community resilience. Regardless of your role, we hope you will join us to learn and contribute your ideas. 
+change adaptation. It has always been challenging to manage urban
+forests threatened by natural and human disturbances. As the climate
+warms, it is unclear if our trees will continue thriving and supporting
+people in communities. At this year's event, we will explore the
+essentials of climate change, potential threats to urban forests, and
+possible ways to enhance community resilience. Regardless of your role,
+we hope you will join us to learn and contribute your ideas.
 
 #### Continuing education credits available for ISA credential holders
-Certified Arborists, Municipal Specialists, and Board Certified Master Arborists will be eligible for CEUs (details coming soon). 
+
+Certified Arborists, Municipal Specialists, and Board Certified Master
+Arborists will be eligible for CEUs (details coming soon).
 
 ### Sponsors
 
 ::: {style="padding-top: 1.2em; padding-left: 1.2em; padding-right: 1.2em;"}
-![](images/usfs.png){width=20%}
-::: 
+![](images/usfs.png){fig-alt="US Forest Service logo" width="20%"}
+:::
