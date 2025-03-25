@@ -7,16 +7,28 @@ project:
   resources: 
     - "/images/"
     - "/venue/CSU-Spur-Hydro-map.pdf"
+  preview: 
+    port: 4200
+    browser: true
+    watch-inputs: true
+    navigate: true
+
+format:
+  html:
+    theme: 
+      - cosmo
+      - styles.scss
+    mainfont: Poppins
 
 website:
   title: "Trees in the West"
+  site-url: https://www.treesinthewest.com
+  repo-url: https://github.com/danielburcham/treesinthewest-quarto-site
+  google-analytics: "G-4K0CFEWX4K"
   favicon: images/favicon.png
   search: 
     location: navbar
     type: textbox
-  site-url: https://www.treesinthewest.com
-  repo-url: https://github.com/danielburcham/treesinthewest-quarto-site
-  google-analytics: "G-4K0CFEWX4K"
   navbar:
     logo: images/conferenceLogo.png
     logo-alt: "Trees in the West conference logo"
@@ -39,13 +51,3 @@ website:
         
       [![](/images/csuLogo.png){height=70px}](https://www.colostate.edu){target=blank} [![](/images/csuSpurLogo.png){height=70px}](https://www.csuspur.org){target=blank} [![](/images/csfsLogo.png){height=70px}](https://csfs.colostate.edu){target=blank}
     right: ""
-
-format:
-  html:
-    embed-resources: true
-    theme: 
-      - cosmo
-      - styles.scss
-    mainfont: Poppins
-    toc: false
-css: styles.css
