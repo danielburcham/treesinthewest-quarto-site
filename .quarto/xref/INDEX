@@ -19,5 +19,11 @@
   },
   "venue/index.qmd": {
     "index.html": "dbd57a7b"
+  },
+  "speakers/2025/denning/index.qmd": {
+    "index.html": "0b9b4ba9"
+  },
+  "speakers/2025/mchale/index.qmd": {
+    "index.html": "2214f821"
   }
 }

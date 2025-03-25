@@ -1,7 +1,7 @@
 ---
 title: "Alessandro Ossola"
 subtitle: "Associate Professor, University of California Davis"
-image: Ossola2023.jpg
+image: Ossola2023.jpeg
 ---
 
 ::: {style="float: left; margin-right: 25px; margin-bottom: 25px"}
