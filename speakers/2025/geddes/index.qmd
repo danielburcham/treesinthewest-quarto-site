@@ -5,7 +5,7 @@ image: chris-geddes.jpg
 ---
 
 ::: {style="float: left; margin-right: 25px; margin-bottom: 25px"}
-![](Ossola2023.jpeg){fig-alt="Portrait of Chris Geddes"
+![](chris-geddes.jpg){fig-alt="Portrait of Chris Geddes"
 width="200"}
 :::
 

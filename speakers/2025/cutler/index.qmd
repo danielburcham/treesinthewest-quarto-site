@@ -1,11 +1,11 @@
 ---
 title: "Lindsay Cutler"
 subtitle: "Program Director, The Park People"
-image: IMG_9861.jpg
+image: IMG_9861.jpeg
 ---
 
 ::: {style="float: left; margin-right: 25px; margin-bottom: 25px"}
-![](IMG_9861.jpg){fig-alt="Portrait of Lindsay Cutler"
+![](IMG_9861.jpeg){fig-alt="Portrait of Lindsay Cutler"
 width="200"}
 :::
 
