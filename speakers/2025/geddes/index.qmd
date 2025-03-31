@@ -1,11 +1,11 @@
 ---
 title: "Chris Geddes"
 subtitle: "Principal, Design Workshop"
-image: chris-geddes.jpg
+image: Chris-Geddes.jpeg
 ---
 
-::: {style="float: left; margin-right: 25px; margin-bottom: 25px"}
-![](chris-geddes.jpg){fig-alt="Portrait of Chris Geddes"
+::: {style="float: left; margin-right: 25px; margin-top: 10px; margin-bottom: 25px"}
+![](Chris-Geddes.jpeg){fig-alt="Portrait of Chris Geddes"
 width="200"}
 :::
 
