@@ -1,0 +1,25 @@
+---
+title: "Chris Geddes"
+subtitle: "Principal, Design Workshop"
+image: chris-geddes.jpg
+---
+
+::: {style="float: left; margin-right: 25px; margin-bottom: 25px"}
+![](Ossola2023.jpeg){fig-alt="Portrait of Chris Geddes"
+width="200"}
+:::
+
+Chris, a planner and urban designer in our Denver studio, is driven by
+the desire to provide clients and community members a meaningful voice
+in the planning and design of public spaces. He believes that it is the
+responsibility of designers to draw out the desires of those who use
+public space, illustrate those desires in ways that all can comprehend,
+and engage stakeholders in a way that builds trust. Chris works on
+projects of all scales, from community planning to the detailed design
+of public spaces, and is particularly fond of projects that tackle
+social and physical challenges. Chris holds a Master of Urban and
+Regional Planning and a Bachelor of Science in Civil Engineering degree
+from the University of Colorado, is an active member of the Downtown
+Denver Partnership and Urban Land Institute. Chris is a member of the
+American Institute of Certified Planners and is also a registered
+landscape architect.

@@ -140,7 +140,7 @@ Daniel Burcham, Colorado State University
 ::: {.callout-note collapse="true" appearance="minimal"}
 ### Session Details
 
-Despite ongoing concerns about limited water resources and climate change, the existing recommendations for watering trees are not entirely based on a detailed knowledge of water use by trees planted in communities, and the suitability of various tree species for a hotter and drier climate is a growing concern for many. Installed in late 2024, the Research Grove at CSU Spur contains an ongoing experiment measuring the water use and drought tolerance of several different tree species commonly used in Colorado. Over the coming years, the trees will be closely monitored to determine seasonal water use patterns, and the results can be used to better inform water budgets and irrigation plans for trees. The grove is located immediately next to the Backyard at CSU Spur's Hydro building (our conference venue), and conference participants will be able to explore and learn about the research project and broader topic during this session. At multiple stations dispersed around the Backyard, experts involved in the project will talk about water use and movement in trees, techniques for measuring tree water use, studying tree water use at the Research grove, and  challenges for watering trees in the west. 
+Despite ongoing concerns about limited water resources and climate change, the existing recommendations for watering trees are not entirely based on a detailed knowledge of water use by trees planted in communities, and the suitability of various tree species for a hotter and drier climate is a growing concern for many. Installed in late 2024, the Research Grove at CSU Spur contains an ongoing experiment measuring the water use and drought tolerance of several different tree species commonly used in Colorado. Over the coming years, the trees will be closely monitored to determine seasonal water use patterns, and the results can be used to better inform water budgets and irrigation plans for trees. The grove is located immediately next to the Backyard at CSU Spur's Hydro building (our conference venue), and conference participants will be able to explore and learn about the research project and broader topic during this session. At multiple stations dispersed around the Backyard, the experts involved in the project will talk about water use and movement in trees, techniques for measuring tree water use, studying tree water use at the Research grove, and  challenges for watering trees in the west. 
 
 :::
 
@@ -158,8 +158,8 @@ Despite ongoing concerns about limited water resources and climate change, the e
 
 ### Dialgoue with Community Members
 
-Lindsay Cutler, The Park People
-Chriss Geddes, Design Collective
+[Lindsay Cutler](/speakers/2025/cutler), The Park People  
+[Chris Geddes](/speakers/2025/geddes), Design Collective
 
 ::: {.callout-note collapse="true" appearance="minimal"}
 ### Session Details
