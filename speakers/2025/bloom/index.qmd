@@ -1,11 +1,11 @@
 ---
 title: "Tori Bloom"
 subtitle: "Climate and Health Coordinator, CDPHE"
-image: tori-bloom.jpg
+image: tori-bloom.jpeg
 ---
 
 ::: {style="float: left; margin-right: 25px; margin-top: 10px; margin-bottom: 25px"}
-![](tori-bloom.jpg){fig-alt="Portrait of Tori Bloom"
+![](tori-bloom.jpeg){fig-alt="Portrait of Tori Bloom"
 width="200"}
 :::
 
