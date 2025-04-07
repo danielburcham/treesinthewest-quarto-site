@@ -1,0 +1,12 @@
+---
+title: "Tori Bloom"
+subtitle: "Climate and Health Coordinator, CDPHE"
+image: tori-bloom.jpg
+---
+
+::: {style="float: left; margin-right: 25px; margin-top: 10px; margin-bottom: 25px"}
+![](tori-bloom.jpg){fig-alt="Portrait of Tori Bloom"
+width="200"}
+:::
+
+Tori Bloom is a Climate and Health Coordinator at the Colorado Department of Public Health and Environment (CDPHE), where she focuses on the integration of climate resilience and public health. She works across sectors at both the state and local level to address issues such as extreme heat and other climate-related co-exposures with emphasis on advancing mitigation and adaptation strategies through evidence-based practices. Prior to CDPHE, Tori worked in urban and community forestry, water research, and extreme heat studies, where her roles concentrated on science communication, community engagement, and policy. She holds a Master of Environment degree from the University of Colorado Boulder with a specialization in Urban Resilience and Sustainability.
