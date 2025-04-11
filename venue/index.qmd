@@ -3,6 +3,11 @@ title: "Venue"
 format: html
 ---
 
+::: {style="margin-top: 10px; margin-bottom: 25px"}
+![](DSCF7649.jpeg){.margin-caption fig-alt="Picture of Hydro Backyard landscape and research grove"
+height="200"}
+:::
+
 The event will take place in the Confluence Theater in the Hydro building at CSU Spur. Located on the ground floor, the Theater can accommodate over 250 people with access to outdoor seating areas. While visiting, you can also explore some of the other buildings, facilities, and projects at CSU Spur, including the green roof, greenhouse, and research tree grove. The upper levels of many buildings offer spectacular views of Denver and the surrounding mountains. 
 
 During the event, registrants can enjoy beverages, snacks, and a catered lunch. Alongside presentations, panel discussions, and interactive tours, the schedule affords lots of time for you to connect with friends and colleagues. 
