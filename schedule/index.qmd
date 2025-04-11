@@ -60,6 +60,7 @@ The science and practice of urban forestry have the unprecedented
 challenge and unique opportunity to start building stronger futures for
 our people and our trees. This talk hopes to inspire transforming tree
 predictions into green realities.
+
 :::
 
 ------------------------------------------------------------------------
@@ -114,6 +115,7 @@ cost-effective solutions during times of reduced budgets. By
 co-producing knowledge, fostering trust, and leveraging shared goals,
 academia, practitioners, and policymakers can amplify the impacts of
 nature-based solutions to address shared climate adaptation challenges.
+
 :::
 
 ------------------------------------------------------------------------
@@ -164,7 +166,9 @@ Despite ongoing concerns about limited water resources and climate change, the e
 
 ::: {.callout-note collapse="true" appearance="minimal"}
 ### Session Details
-The pace of change in our world is increasingly dizzying. While many look for ways to help, the possibility of collective action looks dim in an polarized world. Despite obvious challenges, there are many ways to work constructively with others and enhance the resilience people and the environment. In this session, panelists will explore tangible ways of responding to climate change in our personal and professional lives from multiple perspectives. 
+
+The pace of change in our world is increasingly dizzying. While many look for ways to help, the possibility of collective action looks dim in an polarized world. With power concentrated elsewhere, many individuals do not believe their actions matter. Despite obvious challenges, there are many ways to work constructively with others and enhance the resilience of people and the environment. In this session, our panelists will explore tangible ways of responding to climate change in our personal and professional lives from multiple perspectives. They will also outline some of the ways to get involved and make our communities a better place to live. 
+
 :::
 
 ------------------------------------------------------------------------
