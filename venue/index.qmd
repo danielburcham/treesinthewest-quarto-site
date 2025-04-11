@@ -4,7 +4,7 @@ format: html
 ---
 
 ::: {style="margin-top: 10px; margin-bottom: 25px"}
-![](DSCF7649.jpeg){.margin-caption fig-alt="Picture of Hydro Backyard landscape and research grove"
+![The research tree grove being installed in the Hydro Backyard at CSU Spur.](DSCF7649.jpeg){.margin-caption fig-alt="Picture of Hydro Backyard landscape and research grove"
 height="200"}
 :::
 
