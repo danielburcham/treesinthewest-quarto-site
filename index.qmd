@@ -56,7 +56,7 @@ essentials of climate change, potential threats to urban forests, and
 possible ways to enhance community resilience. Regardless of your role,
 we hope you will join us to learn and contribute your ideas.
 
-::: {style="text-align: center"}
+::: {style="text-align: center; padding-top: 1.2em; padding-bottom: 1.2em;"}
 #### Continuing education credits available for ISA credential holders
 
 Certified Arborist (5), Municipal Specialist (5),  
