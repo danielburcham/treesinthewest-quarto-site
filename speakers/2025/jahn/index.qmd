@@ -1,0 +1,12 @@
+---
+title: "Shannon Jahn"
+subtitle: "Director of Green Workforce, Office of Climate Action, Sustainability, and Resiliency (CASR)"
+image: shannon-jahn.jpeg
+---
+
+::: {style="float: left; margin-right: 25px; margin-bottom: 25px"}
+![](shannon-jahn.jpeg){fig-alt="Portrait of Shannon Jahn"
+width="200"}
+:::
+
+Shannon Jahn is the Director of Green Workforce for Denver’s Office of Climate Action, Sustainability and Resiliency (CASR). She is passionate about workforce development and creating career pathways that expand opportunities for individuals from under-resourced communities to ensure that “green jobs” are quality jobs. To align with Denver’s climate goals, her mission is to design policies, incentives, and programs that drive demand for quality jobs. All while reducing barriers and increasing access to programs and careers for Denver’s most vulnerable community members.  Prior to her role at CASR, Shannon spent 2 years working in Denver’s Office of Economic Development creating opportunities for Denverites into IT and Healthcare careers.  She also spent over a decade in higher education at the University of Denver (DU).  Shannon thoroughly enjoys helping others and strives to find success for all. 
