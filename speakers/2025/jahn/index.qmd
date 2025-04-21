@@ -1,6 +1,6 @@
 ---
 title: "Shannon Jahn"
-subtitle: "Director of Green Workforce, Office of Climate Action, Sustainability, and Resiliency (CASR)"
+subtitle: "Director of Green Workforce, CASR"
 image: shannon-jahn.jpeg
 ---
 
