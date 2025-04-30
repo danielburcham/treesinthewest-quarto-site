@@ -8,6 +8,8 @@ format: html
 
 ### Welcoming Remarks
 
+[Phil Weiser](/speakers/2025/weiser), Colorado Attorney General
+
 ------------------------------------------------------------------------
 
 [*2.*]{style="font-family: Bodoni Moda; font-size: 1.7em; font-weight: 700; color: #008FB3;"}
