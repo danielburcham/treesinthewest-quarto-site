@@ -1,11 +1,11 @@
 ---
 title: "Phil Weiser"
 subtitle: "Attorney General, State of Colorado"
-image: phil-weiser.png
+image: phil-weiser.jpeg
 ---
 
 ::: {style="float: left; margin-right: 25px; margin-bottom: 25px"}
-![](phil-weiser.png){fig-alt="Portrait of Phil Weiser"
+![](phil-weiser.jpeg){fig-alt="Portrait of Phil Weiser"
 width="200"}
 :::
 
