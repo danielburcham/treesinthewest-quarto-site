@@ -25,5 +25,20 @@
   },
   "speakers/2025/mchale/index.qmd": {
     "index.html": "2214f821"
+  },
+  "speakers/2025/bloom/index.qmd": {
+    "index.html": "615d6fa8"
+  },
+  "speakers/2025/cutler/index.qmd": {
+    "index.html": "18e55981"
+  },
+  "speakers/2025/geddes/index.qmd": {
+    "index.html": "52c54e4e"
+  },
+  "speakers/2025/jahn/index.qmd": {
+    "index.html": "89c2c608"
+  },
+  "speakers/2025/weiser/index.qmd": {
+    "index.html": "e7c59c56"
   }
 }

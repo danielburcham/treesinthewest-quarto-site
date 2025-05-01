@@ -66,5 +66,5 @@ BCMA - Science (2), BCMA - Management (3.25)
 ### Sponsors
 
 ::: {style="padding-top: 1.2em; padding-left: 1.2em; padding-right: 1.2em;"}
-![](images/usfs.png){fig-alt="US Forest Service logo" width="20%"}
+[![](images/usfs.png){fig-alt="US Forest Service logo" width="20%"}](https://www.fs.usda.gov/managing-land/urban-forests/ucf){target=blank}
 :::
