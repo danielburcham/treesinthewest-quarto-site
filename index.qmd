@@ -67,10 +67,15 @@ BCMA - Science (2), BCMA - Management (3.25)
 :::
 
 ### Sponsors
-::: {#sponsor-logos layout="[1.4,0.9,0.5]"}
-[![](images/daveyLogo.png){fig-alt="The Davey Tree Expert Company logo"}](https://www.davey.com){target=blank}
 
-[![](images/planitGeoLogo.png){fig-alt="PlanIT Geo logo"}](https://www.planitgeo.com){target=blank}
+::: {layout="[1.4,0.9,0.5]"}
+[![](images/daveyLogo.png){.logo-mobile
+fig-alt="The Davey Tree Expert Company logo"
+fig-align="center"}](https://www.davey.com)
 
-[![](images/usfsLogo.png){fig-alt="US Forest Service logo"}](https://www.fs.usda.gov/managing-land/urban-forests/ucf){target=blank}
+[![](images/planitGeoLogo.png){.logo-mobile fig-alt="PlanIT Geo logo"
+fig-align="center"}](https://www.planitgeo.com)
+
+[![](images/usfsLogo.png){.logo-mobile fig-alt="US Forest Service logo"
+fig-align="center"}](https://www.fs.usda.gov/managing-land/urban-forests/ucf)
 :::
