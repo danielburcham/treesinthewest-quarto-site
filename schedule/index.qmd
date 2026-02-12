@@ -1,6 +1,9 @@
 ---
 title: "Schedule"
 format: html
+editor: 
+  markdown: 
+    wrap: 72
 ---
 
 [*1.*]{style="font-family: Bodoni Moda; font-size: 1.7em; font-weight: 700; color: #008FB3;"}
@@ -195,8 +198,9 @@ challenges for watering trees in the west.
 [Lindsay Cutler](/speakers/2025/cutler), The Park People\
 [Chris Geddes](/speakers/2025/geddes), Design Workshop\
 [Tori Bloom](/speakers/2025/bloom), Colorado Department of Public Health
-and Environment  
-[Shannon Jahn](/speakers/2025/jahn), Office of Climate Action, Sustainability, and Resiliency
+and Environment\
+[Shannon Jahn](/speakers/2025/jahn), Office of Climate Action,
+Sustainability, and Resiliency
 
 ::: {.callout-note collapse="true" appearance="minimal"}
 ### Session Details
@@ -219,3 +223,15 @@ better place to live.
 [3:45]{style="font-size: 1.4em; font-weight: 600; float: right;"}
 
 ### Closing Remarks
+
+------------------------------------------------------------------------
+
+[*11.*]{style="font-family: Bodoni Moda; font-size: 1.7em; font-weight: 700; color: #008FB3;"}
+[4:15]{style="font-size: 1.4em; font-weight: 600; float: right;"}
+
+### Conference Reception
+
+RiNo Beer Garden, 3800 Walnut St, Denver, CO 80205 [[**Hosted
+by**]{style="font-size: 1.2em; font-weight: 300;"}\
+[![PlanIT Geo
+Logo](/images/planit-geo-logo.png){height="70"}](https://planitgeo.com)]{style="float: right; text-align: right;"}

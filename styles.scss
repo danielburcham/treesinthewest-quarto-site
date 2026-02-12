@@ -55,3 +55,21 @@ $bodoni: "Bodoni Moda", serif;
   padding-top: 30px;
   padding-bottom: 30px;
 }
+
+@media (max-width: 767px) {
+  .quarto-layout-cell {
+    width: 70%;
+    padding-bottom: 15px;
+    padding-right: 0;
+    margin-right: 0;
+  }
+  .quarto-layout-row {
+    align-items: center;
+  }
+}
+
+@media (max-width: 767px) {
+  .logo-mobile {
+    max-height: 150px;
+  }
+}

@@ -2,7 +2,14 @@
   {
     "listing": "/speakers/index.html",
     "items": [
-      "/speakers/2025/ossola/index.html"
+      "/speakers/2025/ossola/index.html",
+      "/speakers/2025/geddes/index.html",
+      "/speakers/2025/cutler/index.html",
+      "/speakers/2025/mchale/index.html",
+      "/speakers/2025/weiser/index.html",
+      "/speakers/2025/denning/index.html",
+      "/speakers/2025/jahn/index.html",
+      "/speakers/2025/bloom/index.html"
     ]
   }
 ]

@@ -1,8 +1,11 @@
 ---
 format: html
+editor: 
+  markdown: 
+    wrap: 72
 ---
 
-::: {layout-ncol="3" layout-nrow="1"}
+::: {layout-nrow="1" layout-ncol="3"}
 ![](images/DSCF5094.jpeg)
 
 ![](images/DSCF6269.jpeg)
@@ -59,12 +62,20 @@ we hope you will join us to learn and contribute your ideas.
 ::: {style="text-align: center; padding-top: 1.2em; padding-bottom: 1.2em;"}
 #### Continuing education credits available for ISA credential holders
 
-Certified Arborist (5.25), Municipal Specialist (5.25),  
+Certified Arborist (5.25), Municipal Specialist (5.25),\
 BCMA - Science (2), BCMA - Management (3.25)
 :::
 
 ### Sponsors
 
-::: {style="padding-top: 1.2em; padding-left: 1.2em; padding-right: 1.2em;"}
-![](images/usfs.png){fig-alt="US Forest Service logo" width="20%"}
+::: {layout="[1.4,0.9,0.5]"}
+[![](images/daveyLogo.png){.logo-mobile
+fig-alt="The Davey Tree Expert Company logo"
+fig-align="center"}](https://www.davey.com){target=blank}
+
+[![](images/planitGeoLogo.png){.logo-mobile fig-alt="PlanIT Geo logo"
+fig-align="center"}](https://www.planitgeo.com){target=blank}
+
+[![](images/usfsLogo.png){.logo-mobile fig-alt="US Forest Service logo"
+fig-align="center"}](https://www.fs.usda.gov/managing-land/urban-forests/ucf){target=blank}
 :::
