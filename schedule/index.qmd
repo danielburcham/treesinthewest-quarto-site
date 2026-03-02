@@ -7,214 +7,101 @@ editor:
 ---
 
 [*1.*]{style="font-family: Bodoni Moda; font-size: 1.7em; font-weight: 700; color: #008FB3;"}
-[8:30]{style="font-size: 1.4em; font-weight: 600; float: right;"}
+[9:00]{style="font-size: 1.4em; font-weight: 600; float: right;"}
 
 ### Welcoming Remarks
-
-[Phil Weiser](/speakers/2025/weiser), Colorado Attorney General
 
 ------------------------------------------------------------------------
 
 [*2.*]{style="font-family: Bodoni Moda; font-size: 1.7em; font-weight: 700; color: #008FB3;"}
-[8:45]{style="font-size: 1.4em; font-weight: 600; float: right;"}
+[9:15]{style="font-size: 1.4em; font-weight: 600; float: right;"}
 
-### Climate Change: Simple, Serious, Solvable
+### TBD
 
-[Scott Denning](/speakers/2025/denning), Colorado State University
+Erika Svendsen
 
 ::: {.callout-note collapse="true" appearance="minimal"}
 ### Session Details
 
-Climate change is simple. Heat accumulates in the Earth system when
-incoming sunshine exceeds emitted infrared radiation. The effect of
-CO~2~ on climate was first measured in 1856 and has been confirmed in
-the lab, from towers, balloons, aircraft, and satellites.
-
-Climate change is serious. Every kilogram of coal, oil, and gas ever
-burned warms the climate and much of the warming will persist for
-thousands of years. Warming threatens ecosystems, agriculture, cities,
-the global economy, and sociopolitical systems.
-
-Climate change is solvable. Quickly repowering the global economy using
-non-carbon energy is both technically feasible and economically
-affordable. Indeed, it will be much less expensive than continued use of
-fossil fuels. Some carbon can be sequestered in forests, but the
-potential is limited. Political barriers must be overcome.
 :::
 
 ------------------------------------------------------------------------
 
 [*3.*]{style="font-family: Bodoni Moda; font-size: 1.7em; font-weight: 700; color: #008FB3;"}
-[9:45]{style="font-size: 1.4em; font-weight: 600; float: right;"}
+[10:15]{style="font-size: 1.4em; font-weight: 600; float: right;"}
 
 ### Morning Break
 
 ------------------------------------------------------------------------
 
 [*4.*]{style="font-family: Bodoni Moda; font-size: 1.7em; font-weight: 700; color: #008FB3;"}
-[10:05]{style="font-size: 1.4em; font-weight: 600; float: right;"}
+[10:35]{style="font-size: 1.4em; font-weight: 600; float: right;"}
 
-### Predicting the Future in Urban Forestry
+### Collaboration and conflict among urban forestry stakeholders
 
-[Alessandro Ossola](/speakers/2025/ossola), University of California
-Davis
+Stephanie Cadaval, University of Florida Extension
 
 ::: {.callout-note collapse="true" appearance="minimal"}
 ### Session Details
 
-Urban tree planting initiatives are urgently needed to increase human
-wellbeing, community resilience and environmental sustainability. Yet,
-predicting which tree species we should select, grow, plant and maintain
-is challenging, particularly in the hot and dry Western US. We need to
-find innovative long-term solutions so our urban forests can thrive –
-not survive – under new climatic, environmental and social stressors.
-
-This talk will present an integrated framework to measure, predict and
-validate the suitability of old and new tree species for planting at
-various locations. By integrating diverse data streams from field
-trials, glasshouse experiments, global occurrence records, urban forest
-inventories, geospatial datasets and plant ecological traits we aim to
-advance new ideas and approaches to future-proof biodiverse urban
-forests for decades to come.
-
-The science and practice of urban forestry have the unprecedented
-challenge and unique opportunity to start building stronger futures for
-our people and our trees. This talk hopes to inspire transforming tree
-predictions into green realities.
 :::
 
 ------------------------------------------------------------------------
 
 [*5.*]{style="font-family: Bodoni Moda; font-size: 1.7em; font-weight: 700; color: #008FB3;"}
-[11:05]{style="font-size: 1.4em; font-weight: 600; float: right;"}
+[11:35]{style="font-size: 1.4em; font-weight: 600; float: right;"}
 
-### Beyond Magical Metrics and Canopy Goals: Exploring Thermal Comfort, Water Use, and the Power of Collaboration in Urban Forestry
+### City of Fort Collins Urban Forestry Ambassadors Program
 
-[Melissa McHale](/speakers/2025/mchale), University of British Columbia
+Freddie Haberecht, Bev Shaw, and Eric Larmer, City of Fort Collins
 
 ::: {.callout-note collapse="true" appearance="minimal"}
 ### Session Details
 
-Urban forestry practitioners and managers face mounting challenges in
-sustaining tree canopy amid rising temperatures, constrained water
-resources, and limited municipal budgets. While broad canopy targets are
-often emphasized, these metrics oversimplify the complexity of urban
-ecosystems and miss critical nuances that can inform better planning and
-policy decisions. This presentation highlights recent findings that
-bridge science, practice, and policy, revealing new insights into the
-dual role of tree canopy in reducing household water use and improving
-thermal comfort.
-
-Recent research from Dr. McHale’s lab highlights the importance of
-studying urban heat at scales that align with human experiences,
-addressing the limitations of low-resolution, satellite-derived, thermal
-imagery. The team has shown a clear, linear relationship between canopy
-cover and mean radiant temperature, with increasing canopy—even beyond
-the “magical” 30 percent metric—consistently enhancing outdoor thermal
-comfort. At the parcel scale, their findings reveal critical design
-factors influencing heat and water use. Smaller residential parcels, for
-example, consume more water due to neighborhood norms, homeowners'
-associations, and design choices. Furthermore, xeriscaping and
-traditional lawns exhibit distinct tradeoffs between heat mitigation and
-water savings, particularly during hot, dry summers, while the
-orientation of landscapes challenges the conventional "west is best"
-belief perpetuated by i-Tree models. The team’s work also underscores
-the multifunctional value of trees in transportation corridors,
-demonstrating how they contribute to thermal comfort in ways that go
-beyond providing shade. Collectively, these insights emphasize the need
-for tailored, actionable strategies that reflect the lived experiences
-of urban residents and the specific dynamics of their environments.
-
-Equally important is the role of partnerships between cities,
-universities, and industry in addressing these challenges. Drawing from
-collaborations in Canada’s Okanagan region, this presentation showcases
-how such partnerships enable cutting-edge science to inform urban
-forestry practices and policy. These collaborations not only advance the
-practical application of new tools but also empower cities to implement
-cost-effective solutions during times of reduced budgets. By
-co-producing knowledge, fostering trust, and leveraging shared goals,
-academia, practitioners, and policymakers can amplify the impacts of
-nature-based solutions to address shared climate adaptation challenges.
 :::
 
 ------------------------------------------------------------------------
 
 [*6.*]{style="font-family: Bodoni Moda; font-size: 1.7em; font-weight: 700; color: #008FB3;"}
-[12:05]{style="font-size: 1.4em; font-weight: 600; float: right;"}
+[12:35]{style="font-size: 1.4em; font-weight: 600; float: right;"}
 
 ### Lunch
 
 ------------------------------------------------------------------------
 
 [*7.*]{style="font-family: Bodoni Moda; font-size: 1.7em; font-weight: 700; color: #008FB3;"}
-[12:55]{style="font-size: 1.4em; font-weight: 600; float: right;"}
+[1:25]{style="font-size: 1.4em; font-weight: 600; float: right;"}
 
-### Research Grove Tour
+### Tree Board Dialogue
 
-Troy Ocheltree, Colorado State University\
-Sean Gleason, USDA Agricultural Research Service\
-Arian Brazenwood, Colorado State University\
-Carrie Tomlinson, Colorado State Forest Service\
-Jon Martin, Colorado State University\
-Daniel Burcham, Colorado State University
+Alison O'Connor, Windsor Tree Board
+Jane Felter, Lamar Tree Board
+
 
 ::: {.callout-note collapse="true" appearance="minimal"}
 ### Session Details
 
-Despite ongoing concerns about limited water resources and climate
-change, the existing recommendations for watering trees are not entirely
-based on a detailed knowledge of water use by trees planted in
-communities, and the suitability of various tree species for a hotter
-and drier climate is a growing concern for many. Installed in late 2024,
-the Research Grove at CSU Spur contains an ongoing experiment measuring
-the water use and drought tolerance of several different tree species
-commonly used in Colorado. Over the coming years, the trees will be
-closely monitored to determine seasonal water use patterns, and the
-results can be used to better inform water budgets and irrigation plans
-for trees. The grove is located immediately next to the Backyard at CSU
-Spur's Hydro building (our conference venue), and conference
-participants will be able to explore and learn about the research
-project and broader topic during this session. At multiple stations
-dispersed around the Backyard, the experts involved in the project will
-talk about water use and movement in trees, techniques for measuring
-tree water use, studying tree water use at the Research grove, and
-challenges for watering trees in the west.
 :::
 
 ------------------------------------------------------------------------
 
 [*8.*]{style="font-family: Bodoni Moda; font-size: 1.7em; font-weight: 700; color: #008FB3;"}
-[2:10]{style="font-size: 1.4em; font-weight: 600; float: right;"}
+[2:40]{style="font-size: 1.4em; font-weight: 600; float: right;"}
 
 ### Afternoon Break
 
 ------------------------------------------------------------------------
 
 [*9.*]{style="font-family: Bodoni Moda; font-size: 1.7em; font-weight: 700; color: #008FB3;"}
-[2:30]{style="font-size: 1.4em; font-weight: 600; float: right;"}
+[3:00]{style="font-size: 1.4em; font-weight: 600; float: right;"}
 
-### Dialgoue with Community Members
+### TBD
 
-[Lindsay Cutler](/speakers/2025/cutler), The Park People\
-[Chris Geddes](/speakers/2025/geddes), Design Workshop\
-[Tori Bloom](/speakers/2025/bloom), Colorado Department of Public Health
-and Environment\
-[Shannon Jahn](/speakers/2025/jahn), Office of Climate Action,
-Sustainability, and Resiliency
+Justin Evertson, Nebraska Forest Service & PlantNebraska
 
 ::: {.callout-note collapse="true" appearance="minimal"}
 ### Session Details
 
-The pace of change in our world is increasingly dizzying. While many
-look for ways to help, the possibility of collective action looks dim in
-an polarized world. With power concentrated elsewhere, many individuals
-do not believe their actions matter. Despite obvious challenges, there
-are many ways to work constructively with others and enhance the
-resilience of people and the environment. In this session, our panelists
-will explore tangible ways of responding to climate change in our
-personal and professional lives from multiple perspectives. They will
-also outline some of the ways to get involved and make our communities a
-better place to live.
 :::
 
 ------------------------------------------------------------------------
