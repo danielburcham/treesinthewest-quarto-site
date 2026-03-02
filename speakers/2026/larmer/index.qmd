@@ -1,0 +1,12 @@
+---
+title: "Eric Larmer"
+subtitle: "Volunteer"
+image: larmer.jpg
+---
+
+::: {style="float: left; margin-right: 25px; margin-bottom: 25px"}
+![](larmer.jpg){fig-alt="Portrait of (l-r) Bev Shaw, Freddie Haberecht, and Eric Larmer"
+width="200"}
+:::
+
+Eric Larmer was the first Urban Forest Ambassador volunteer in Fort Collins in 2021. Retired from a career in finance and career coaching, he's had a lifelong love of all things trees.

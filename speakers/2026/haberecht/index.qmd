@@ -1,0 +1,12 @@
+---
+title: "Freddie Haberecht"
+subtitle: "City of Fort Collins"
+image: haberecht.jpg
+---
+
+::: {style="float: left; margin-right: 25px; margin-bottom: 25px"}
+![](haberecht.jpg){fig-alt="Portrait of (l-r) Bev Shaw, Freddie Haberecht, and Eric Larmer"
+width="200"}
+:::
+
+Freddie Haberecht is a forester with the City of Fort Collins Forestry Division helping coordinate the Urban Forest Ambassador program.
