@@ -9,14 +9,14 @@ editor:
 ### Check for new updates
 
 [*1.*]{style="font-family: Bodoni Moda; font-size: 1.7em; font-weight: 700; color: #008FB3;"}
-[8:30]{style="font-size: 1.4em; font-weight: 600; float: right;"}
+[9:00]{style="font-size: 1.4em; font-weight: 600; float: right;"}
 
 ### Welcoming Remarks
 
 ------------------------------------------------------------------------
 
 [*2.*]{style="font-family: Bodoni Moda; font-size: 1.7em; font-weight: 700; color: #008FB3;"}
-[8:45]{style="font-size: 1.4em; font-weight: 600; float: right;"}
+[9:15]{style="font-size: 1.4em; font-weight: 600; float: right;"}
 
 ### TBD
 
@@ -31,15 +31,16 @@ editor:
 ------------------------------------------------------------------------
 
 [*3.*]{style="font-family: Bodoni Moda; font-size: 1.7em; font-weight: 700; color: #008FB3;"}
-[9:45]{style="font-size: 1.4em; font-weight: 600; float: right;"}
+[10:15]{style="font-size: 1.4em; font-weight: 600; float: right;"}
 
 ### Morning Break
 
 ------------------------------------------------------------------------
 
 [*4.*]{style="font-family: Bodoni Moda; font-size: 1.7em; font-weight: 700; color: #008FB3;"}
-[10:05]{style="font-size: 1.4em; font-weight: 600; float: right;"}
+[10:35]{style="font-size: 1.4em; font-weight: 600; float: right;"}
 
+<<<<<<< HEAD
 ### Rooted in Community: How Any City Can Build a Volunteer Tree Force
 
 [Freddie Haberecht](/speakers/2026/haberecht), City of Fort Collins
@@ -55,11 +56,12 @@ Join Fort Collins forestry specialist Freddie Haberecht and Urban Forest Ambassa
 ------------------------------------------------------------------------
 
 [*5.*]{style="font-family: Bodoni Moda; font-size: 1.7em; font-weight: 700; color: #008FB3;"}
-[11:05]{style="font-size: 1.4em; font-weight: 600; float: right;"}
+[11:35]{style="font-size: 1.4em; font-weight: 600; float: right;"}
 
 ### Conflict and Collaboration in Urban Forestry
 
 [Stephanie Cadaval](/speakers/2026/cadaval), University of Florida Extension
+
 
 ::: {.callout-note collapse="true" appearance="minimal"}
 ### Session Details
@@ -70,18 +72,18 @@ Join Fort Collins forestry specialist Freddie Haberecht and Urban Forest Ambassa
 ------------------------------------------------------------------------
 
 [*6.*]{style="font-family: Bodoni Moda; font-size: 1.7em; font-weight: 700; color: #008FB3;"}
-[12:05]{style="font-size: 1.4em; font-weight: 600; float: right;"}
+[12:35]{style="font-size: 1.4em; font-weight: 600; float: right;"}
 
 ### Lunch
 
 ------------------------------------------------------------------------
 
 [*7.*]{style="font-family: Bodoni Moda; font-size: 1.7em; font-weight: 700; color: #008FB3;"}
-[12:55]{style="font-size: 1.4em; font-weight: 600; float: right;"}
+[1:25]{style="font-size: 1.4em; font-weight: 600; float: right;"}
 
 ### Dialogue with Tree Board Members
 
-Alisson O'Connor, Colorado State University\
+Alisson O'Connor, Town of Windsor Tree Board\
 Daniel Burcham, Colorado State University
 
 ::: {.callout-note collapse="true" appearance="minimal"}
@@ -93,14 +95,14 @@ Daniel Burcham, Colorado State University
 ------------------------------------------------------------------------
 
 [*8.*]{style="font-family: Bodoni Moda; font-size: 1.7em; font-weight: 700; color: #008FB3;"}
-[2:10]{style="font-size: 1.4em; font-weight: 600; float: right;"}
+[2:40]{style="font-size: 1.4em; font-weight: 600; float: right;"}
 
 ### Afternoon Break
 
 ------------------------------------------------------------------------
 
 [*9.*]{style="font-family: Bodoni Moda; font-size: 1.7em; font-weight: 700; color: #008FB3;"}
-[2:30]{style="font-size: 1.4em; font-weight: 600; float: right;"}
+[3:00]{style="font-size: 1.4em; font-weight: 600; float: right;"}
 
 ### PlantNebraska: 50 Years of Tree Planting and Exploration
 
@@ -124,10 +126,3 @@ PlantNebraska has been planting Nebraska for healthy people, greener communities
 [*11.*]{style="font-family: Bodoni Moda; font-size: 1.7em; font-weight: 700; color: #008FB3;"}
 [4:15]{style="font-size: 1.4em; font-weight: 600; float: right;"}
 
-### Conference Reception
-
-RiNo Beer Garden, 3800 Walnut St, Denver, CO 80205 
-Invitation Details
-[[**Hosted by**]{style="font-size: 1.2em; font-weight: 300;"}\
-[![PlanIT Geo
-Logo](/images/planit-geo-logo.png){height="70"}](https://planitgeo.com)]{style="float: right; text-align: right;"}
