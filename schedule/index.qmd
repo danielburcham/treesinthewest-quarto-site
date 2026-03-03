@@ -6,7 +6,8 @@ editor:
     wrap: 72
 ---
 
-### Check for new updates
+### Check for new updates\
+
 
 [*1.*]{style="font-family: Bodoni Moda; font-size: 1.7em; font-weight: 700; color: #008FB3;"}
 [9:00]{style="font-size: 1.4em; font-weight: 600; float: right;"}
@@ -40,12 +41,11 @@ editor:
 [*4.*]{style="font-family: Bodoni Moda; font-size: 1.7em; font-weight: 700; color: #008FB3;"}
 [10:35]{style="font-size: 1.4em; font-weight: 600; float: right;"}
 
-<<<<<<< HEAD
 ### Rooted in Community: How Any City Can Build a Volunteer Tree Force
 
-[Freddie Haberecht](/speakers/2026/haberecht), City of Fort Collins
-[Eric Larmer](/speakers/2026/larmer), Volunteer
-[Bev Shaw](/speakers/2026/shaw), Volunteer
+[Freddie Haberecht](/speakers/2026/shaw-haberecht-larmer), City of Fort Collins\
+[Eric Larmer](/speakers/2026/shaw-haberecht-larmer), Volunteer\
+[Bev Shaw](/speakers/2026/shaw-haberecht-larmer), Volunteer
 
 ::: {.callout-note collapse="true" appearance="minimal"}
 ### Session Details
@@ -83,7 +83,7 @@ Join Fort Collins forestry specialist Freddie Haberecht and Urban Forest Ambassa
 
 ### Dialogue with Tree Board Members
 
-Alisson O'Connor, Town of Windsor Tree Board\
+[Allison O'Connor](/speakers/2026/oconnor), Town of Windsor Tree Board\
 Daniel Burcham, Colorado State University
 
 ::: {.callout-note collapse="true" appearance="minimal"}
@@ -117,12 +117,9 @@ PlantNebraska has been planting Nebraska for healthy people, greener communities
 ------------------------------------------------------------------------
 
 [*10.*]{style="font-family: Bodoni Moda; font-size: 1.7em; font-weight: 700; color: #008FB3;"}
-[3:45]{style="font-size: 1.4em; font-weight: 600; float: right;"}
+[4:00]{style="font-size: 1.4em; font-weight: 600; float: right;"}
 
 ### Closing Remarks
 
 ------------------------------------------------------------------------
-
-[*11.*]{style="font-family: Bodoni Moda; font-size: 1.7em; font-weight: 700; color: #008FB3;"}
-[4:15]{style="font-size: 1.4em; font-weight: 600; float: right;"}
 

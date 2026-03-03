@@ -62,7 +62,4 @@ BCMA - Science (2), BCMA - Management (3.25)
 
 ### Sponsors
 
-::: {layout="[1.4,0.9,0.5]"}
-[![](images/planitGeoLogo.png){.logo-mobile fig-alt="PlanIT Geo logo"
-fig-align="center"}](https://www.planitgeo.com){target=blank}
-:::
+

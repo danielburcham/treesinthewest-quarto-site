@@ -40,5 +40,32 @@
   },
   "speakers/2025/weiser/index.qmd": {
     "index.html": "e7c59c56"
+  },
+  "schedule/secondEvent.qmd": {
+    "secondEvent.html": "f316c49b"
+  },
+  "speakers/2026/cadaval/index.qmd": {
+    "index.html": "c2ceaf0c"
+  },
+  "speakers/2026/evertson/index.qmd": {
+    "index.html": "c5d2335d"
+  },
+  "speakers/2026/haberecht/index.qmd": {
+    "index.html": "e9a3a4b0"
+  },
+  "speakers/2026/larmer/index.qmd": {
+    "index.html": "418e08de"
+  },
+  "speakers/2026/shaw/index.qmd": {
+    "index.html": "63dc03d3"
+  },
+  "speakers/2026/haberecht-larmer-shaw/index.qmd": {
+    "index.html": "2aab5fd5"
+  },
+  "speakers/2026/oconnor/index.qmd": {
+    "index.html": "a0e8f812"
+  },
+  "speakers/2026/shaw-haberecht-larmer/index.qmd": {
+    "index.html": "c05749a8"
   }
 }

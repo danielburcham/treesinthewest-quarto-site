@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://www.treesinthewest.com/index.html</loc>
-    <lastmod>2025-05-12T20:23:10.955Z</lastmod>
+    <lastmod>2026-03-02T19:37:09.254Z</lastmod>
   </url>
   <url>
     <loc>https://www.treesinthewest.com/speakers/2025/ossola/index.html</loc>
@@ -10,11 +10,11 @@
   </url>
   <url>
     <loc>https://www.treesinthewest.com/speakers/index.html</loc>
-    <lastmod>2025-05-01T19:36:13.780Z</lastmod>
+    <lastmod>2026-03-02T20:27:21.731Z</lastmod>
   </url>
   <url>
     <loc>https://www.treesinthewest.com/schedule/index.html</loc>
-    <lastmod>2025-05-07T19:57:06.108Z</lastmod>
+    <lastmod>2026-03-02T21:31:10.437Z</lastmod>
   </url>
   <url>
     <loc>https://www.treesinthewest.com/experience/index.html</loc>
@@ -51,5 +51,41 @@
   <url>
     <loc>https://www.treesinthewest.com/speakers/2025/jahn/index.html</loc>
     <lastmod>2025-05-01T19:36:13.767Z</lastmod>
+  </url>
+  <url>
+    <loc>https://www.treesinthewest.com/speakers/2026/shaw/index.html</loc>
+    <lastmod>2026-03-02T13:49:04.628Z</lastmod>
+  </url>
+  <url>
+    <loc>https://www.treesinthewest.com/speakers/2026/haberecht/index.html</loc>
+    <lastmod>2026-03-02T13:46:46.151Z</lastmod>
+  </url>
+  <url>
+    <loc>https://www.treesinthewest.com/speakers/2026/cadaval/index.html</loc>
+    <lastmod>2026-03-02T13:34:44.768Z</lastmod>
+  </url>
+  <url>
+    <loc>https://www.treesinthewest.com/schedule/secondEvent.html</loc>
+    <lastmod>2026-03-02T19:37:09.254Z</lastmod>
+  </url>
+  <url>
+    <loc>https://www.treesinthewest.com/speakers/2026/evertson/index.html</loc>
+    <lastmod>2026-03-02T21:29:37.555Z</lastmod>
+  </url>
+  <url>
+    <loc>https://www.treesinthewest.com/speakers/2026/larmer/index.html</loc>
+    <lastmod>2026-03-02T13:48:02.546Z</lastmod>
+  </url>
+  <url>
+    <loc>https://www.treesinthewest.com/speakers/2026/haberecht-larmer-shaw/index.html</loc>
+    <lastmod>2026-03-02T20:36:07.340Z</lastmod>
+  </url>
+  <url>
+    <loc>https://www.treesinthewest.com/speakers/2026/oconnor/index.html</loc>
+    <lastmod>2026-03-02T21:18:19.433Z</lastmod>
+  </url>
+  <url>
+    <loc>https://www.treesinthewest.com/speakers/2026/shaw-haberecht-larmer/index.html</loc>
+    <lastmod>2026-03-02T20:46:27.280Z</lastmod>
   </url>
 </urlset>
