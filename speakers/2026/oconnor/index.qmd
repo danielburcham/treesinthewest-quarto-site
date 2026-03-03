@@ -1,12 +1,12 @@
 ---
-title: "Allison O'Connor"
+title: "Alison O'Connor"
 subtitle: "Colorado State University Extension"
 image: oconnor.jpg
 ---
 
 ::: {style="float: left; margin-right: 25px; margin-bottom: 25px"}
-![](oconnor.jpg){fig-alt="Portrait of Allison O'Connor"
+![](oconnor.jpg){fig-alt="Portrait of Alison O'Connor"
 width="200"}
 :::
 
-Allison O’Connor is a professor of horticulture for Colorado State University Extension. Her position is focused on providing outreach education to the community and coordinating the Larimer County Master Gardener Volunteers. As an active member of her community, she also chairs the Tree Board for the Town of Windsor. She earned her undergraduate degree in horticulture at Iowa State University, her master’s at Ohio State and finally her Ph.D. at Colorado State University. 
+Alison O’Connor is a professor of horticulture for Colorado State University Extension. Her position is focused on providing outreach education to the community and coordinating the Larimer County Master Gardener Volunteers. As an active member of her community, she also chairs the Tree Board for the Town of Windsor. She earned her undergraduate degree in horticulture at Iowa State University, her master’s at Ohio State and finally her Ph.D. at Colorado State University. 
