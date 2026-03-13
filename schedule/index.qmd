@@ -19,13 +19,12 @@ editor:
 [*2.*]{style="font-family: Bodoni Moda; font-size: 1.7em; font-weight: 700; color: #008FB3;"}
 [9:15]{style="font-size: 1.4em; font-weight: 600; float: right;"}
 
-### TBD
+### Community Engagement in Urban Forestry
 
-[TBD]()
+[Dana Karcher](/speakers/2026/karcher), Red Bud Strategies
 
 ::: {.callout-note collapse="true" appearance="minimal"}
 ### Session Details
-
 
 :::
 
