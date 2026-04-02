@@ -19,13 +19,12 @@ editor:
 [*2.*]{style="font-family: Bodoni Moda; font-size: 1.7em; font-weight: 700; color: #008FB3;"}
 [9:15]{style="font-size: 1.4em; font-weight: 600; float: right;"}
 
-### TBD
+### Community Engagement in Urban Forestry
 
-[TBD]()
+[Dana Karcher](/speakers/2026/karcher), Red Bud Strategies
 
 ::: {.callout-note collapse="true" appearance="minimal"}
 ### Session Details
-
 
 :::
 
@@ -58,14 +57,13 @@ Join Fort Collins forestry specialist Freddie Haberecht and Urban Forest Ambassa
 [*5.*]{style="font-family: Bodoni Moda; font-size: 1.7em; font-weight: 700; color: #008FB3;"}
 [11:35]{style="font-size: 1.4em; font-weight: 600; float: right;"}
 
-### Conflict and Collaboration in Urban Forestry
+### Leveraging Collaborative Initiatives for Community Engagement in Urban Forestry
 
 [Stephanie Cadaval](/speakers/2026/cadaval), University of Florida Extension
 
-
 ::: {.callout-note collapse="true" appearance="minimal"}
 ### Session Details
-
+Collaboration is increasingly recognized as essential for addressing complex social, ecological, and governance challenges in urban forest management. But getting to collaboration can be difficult. This presentation lays out lessons learned from the development of the new University of Florida Institute for Food and Agricultural Sciences Urban Forestry Extension Council (UFEC). Building on findings from a systematic literature review on conflict and collaboration in urban forestry and paired with statewide needs across Florida, this presentation details UFEC’s formation, mission, and structure. We’ll highlight accomplishments from our first year, and attendees will walk away with examples of how collaborative approaches to Extension can decrease fragmentation, improve knowledge exchange, and support urban forestry education and outreach statewide.
 
 :::
 
@@ -88,7 +86,7 @@ Daniel Burcham, Colorado State University
 
 ::: {.callout-note collapse="true" appearance="minimal"}
 ### Session Details
-
+Tree boards are a common way for people to get involved in stewarding their community's trees. While some commonalities exist, like Arbor Day celebrations, the committees often organize their work in very different ways. In this panel dialogue, several tree board members from communities across Colorado will share about their work and offer recommendations for similar efforts elsewhere, drawing on their experience with public advocacy, communication, and education. 
 
 :::
 
