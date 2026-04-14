@@ -1,0 +1,12 @@
+---
+title: "Jason Shimmel"
+subtitle: "Shady Grove Horticulture"
+image: shimmel.jpg
+---
+
+::: {style="float: left; margin-right: 25px; margin-bottom: 25px"}
+![](shimmel.jpg){fig-alt="Portrait of Jason Shimmel"
+width="200"}
+:::
+
+Jason Shimmel is a lifelong and self professed “plant nerd”. He has been messing with trees, plants and gardens for as long as he can remember, and it was this passion that led him to Colorado State University, where he earned a degree in Environmental Horticulture. As of 2026, Jason has spent over 20 years in the nursery and landscape industry. Jason currently owns Shady Grove Horticulture, a nursery plant sales and consulting company. He is also the current Chair of the Erie Tree Advisory Board, co-Chair of Plant Ahead through the CNGA, as well as a Colorado Certified Nursery Professional. 
