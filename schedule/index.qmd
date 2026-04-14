@@ -6,13 +6,13 @@ editor:
     wrap: 72
 ---
 
-### Check for new updates\
-
 
 [*1.*]{style="font-family: Bodoni Moda; font-size: 1.7em; font-weight: 700; color: #008FB3;"}
 [9:00]{style="font-size: 1.4em; font-weight: 600; float: right;"}
 
 ### Welcoming Remarks
+
+Kim Yuan-Farrell, The Park People
 
 ------------------------------------------------------------------------
 
