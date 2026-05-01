@@ -1,0 +1,12 @@
+---
+title: "Bruce Bosley"
+subtitle: "Colorado State University Extension"
+image: bosley.jpg
+---
+
+::: {style="float: left; margin-right: 25px; margin-bottom: 25px"}
+![](bosley.jpg){fig-alt="Portrait of Bruce Bosley"
+width="200"}
+:::
+
+Bruce has served on the Brush Tree Board for over 20 years. He worked as a Colorado State Extension Agent in Cropping Systems and Natural Resources for 27 years from 1988 to 2015. Bruce earned a Master of Science Degree from Colorado State University in Crops Horticulture in 1983. In the 1970’s, Bruce worked in Boulder’s Mountain Parks and Open Space, cutting down and removing Ponderosa pines that had succumbed to infestations of Rocky Mountain pine beetle.
