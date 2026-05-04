@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://www.treesinthewest.com/index.html</loc>
-    <lastmod>2026-04-17T03:40:32.537Z</lastmod>
+    <lastmod>2026-05-04T21:49:21.769Z</lastmod>
   </url>
   <url>
     <loc>https://www.treesinthewest.com/speakers/2025/ossola/index.html</loc>
@@ -14,7 +14,7 @@
   </url>
   <url>
     <loc>https://www.treesinthewest.com/schedule/index.html</loc>
-    <lastmod>2026-04-17T03:26:09.820Z</lastmod>
+    <lastmod>2026-05-04T22:10:53.991Z</lastmod>
   </url>
   <url>
     <loc>https://www.treesinthewest.com/experience/index.html</loc>
@@ -99,5 +99,13 @@
   <url>
     <loc>https://www.treesinthewest.com/speakers/2026/shimmel/index.html</loc>
     <lastmod>2026-04-14T19:35:05.968Z</lastmod>
+  </url>
+  <url>
+    <loc>https://www.treesinthewest.com/speakers/2026/bosley/index.html</loc>
+    <lastmod>2026-05-01T20:28:30.672Z</lastmod>
+  </url>
+  <url>
+    <loc>https://www.treesinthewest.com/speakers/2026/yuan-farrell/index.html</loc>
+    <lastmod>2026-04-20T17:41:32.915Z</lastmod>
   </url>
 </urlset>

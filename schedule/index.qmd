@@ -125,3 +125,12 @@ PlantNebraska has been planting Nebraska for healthy people, greener communities
 
 ------------------------------------------------------------------------
 
+[*11.*]{style="font-family: Bodoni Moda; font-size: 1.7em; font-weight: 700; color: #008FB3;"}
+[4:15]{style="font-size: 1.4em; font-weight: 600; float: right;"}
+
+### Conference Reception
+
+RiNo Beer Garden, 3800 Walnut St, Denver, CO 80205 [[**Hosted
+by**]{style="font-size: 1.2em; font-weight: 300;"}\
+[![PlanIT Geo Logo](/images/planit-geo-logo.png){height="70"}](https://planitgeo.com)]{style="float: right; text-align: right;"}\
+[Click here for more information](/images/planitGeoReceptionFlyer.png)
