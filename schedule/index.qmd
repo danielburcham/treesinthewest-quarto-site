@@ -6,25 +6,26 @@ editor:
     wrap: 72
 ---
 
-### Check for new updates\
-
 
 [*1.*]{style="font-family: Bodoni Moda; font-size: 1.7em; font-weight: 700; color: #008FB3;"}
 [9:00]{style="font-size: 1.4em; font-weight: 600; float: right;"}
 
 ### Welcoming Remarks
 
+[Kim Yuan-Farrell](/speakers/2026/yuan-farrell), The Park People
+
 ------------------------------------------------------------------------
 
 [*2.*]{style="font-family: Bodoni Moda; font-size: 1.7em; font-weight: 700; color: #008FB3;"}
 [9:15]{style="font-size: 1.4em; font-weight: 600; float: right;"}
 
-### Community Engagement in Urban Forestry
+### From Information to Engagement: Building Community Ownership of the Urban Forest
 
 [Dana Karcher](/speakers/2026/karcher), Red Bud Strategies
 
 ::: {.callout-note collapse="true" appearance="minimal"}
 ### Session Details
+Community engagement in urban forestry starts with the acknowledgement that our role, as the experts in the room, is to build coalitions that steward trees. Those coalitions may be small or large, based in neighborhoods or entire cities, and provide small ideas or a great deal of input. The concept of engagement is to build ownership of urban forests. That may start with a single tree planted in a nearby park, or attending meetings on tree policy or future urban forestry growth. Steps to ownership are very distinct but include a great deal of information and engagement at a variety of levels. This talk will synthesize successful engagement steps and tasks that lead to urban forest ownership, transforming urban forestry programs and even entire communities.
 
 :::
 
@@ -81,7 +82,10 @@ Collaboration is increasingly recognized as essential for addressing complex soc
 
 ### Dialogue with Tree Board Members
 
+[Bruce Bosley](/speakers/2026/bosley), City of Brush Tree Board\
 [Allison O'Connor](/speakers/2026/oconnor), Town of Windsor Tree Board\
+[Adam Moore](/speakers/2026/moore), City of Alamosa Tree Board\
+[Jason Shimmel](/speakers/2026/shimmel), Town of Erie Tree  Board\
 Daniel Burcham, Colorado State University
 
 ::: {.callout-note collapse="true" appearance="minimal"}
@@ -121,3 +125,12 @@ PlantNebraska has been planting Nebraska for healthy people, greener communities
 
 ------------------------------------------------------------------------
 
+[*11.*]{style="font-family: Bodoni Moda; font-size: 1.7em; font-weight: 700; color: #008FB3;"}
+[4:15]{style="font-size: 1.4em; font-weight: 600; float: right;"}
+
+### Conference Reception
+
+RiNo Beer Garden, 3800 Walnut St, Denver, CO 80205 [[**Hosted
+by**]{style="font-size: 1.2em; font-weight: 300;"}\
+[![PlanIT Geo Logo](/images/planit-geo-logo.png){height="70"}](https://planitgeo.com)]{style="float: right; text-align: right;"}\
+[Click here for more information](/images/planitGeoReceptionFlyer.png)
